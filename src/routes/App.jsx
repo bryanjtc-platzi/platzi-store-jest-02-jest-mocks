@@ -9,7 +9,7 @@ const App = () => (
   <BrowserRouter>
     <Layout>
       <Switch>
-        <Route exact path="/platzi-store-jest-02-jest-mocks" component={Home} />
+        <Route exact path="/platzi-store-jest-02-jest-mocks/" component={Home} />
         <Route exact path="/checkout" component={Checkout} />
         <Route component={NotFound} />
       </Switch>
