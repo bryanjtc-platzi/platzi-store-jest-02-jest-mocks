@@ -1,5 +1,5 @@
 import React from 'react';
-import { mount, shallow } from 'enzyme';
+import { mount, shallow, render  } from 'enzyme';
 import { create } from 'react-test-renderer';
 import ProviderMock from '../../__mocks__/ProviderMock';
 import Header from '../../components/Header';
@@ -14,7 +14,7 @@ describe('<Header />', () => {
     expect(header.length).toEqual(1);
   });
   test('Render del Titulo', () => {
-    const header = mount(
+    const header = render (
       <ProviderMock>
         <Header />
       </ProviderMock>,

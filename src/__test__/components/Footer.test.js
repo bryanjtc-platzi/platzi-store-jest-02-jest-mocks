@@ -1,10 +1,10 @@
 import React from 'react';
-import { mount } from 'enzyme';
+import { render } from 'enzyme';
 import { create } from 'react-test-renderer';
 import Footer from '../../components/Footer';
 
 describe('<Footer />', () => {
-  const footer = mount(<Footer />);
+  const footer = render(<Footer />);
 
   test('Render del componente Footer', () => {
     expect(footer.length).toEqual(1);
