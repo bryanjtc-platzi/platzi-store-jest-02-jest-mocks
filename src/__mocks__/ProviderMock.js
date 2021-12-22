@@ -11,7 +11,7 @@ const history = createMemoryHistory ();
 
 const ProviderMock = props => (
   <Provider store={store}>
-    <Router history={history}>
+    <Router location={history.location} navigator={history}>
       {props.children}
     </Router>
   </Provider>
