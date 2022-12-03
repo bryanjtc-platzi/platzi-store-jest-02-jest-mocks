@@ -11,11 +11,4 @@ jobs:
       - uses: actions/setup-node@v3
         with:
           node-version: 14.x
-      - run: npm ci
-      - run: npm run test
-  automerge:
-    needs: build
-    runs-on: ubuntu-latest
-    steps:
-      - name: Merge
-        uses: KeisukeYamashita/auto-renovate-pull-request-merge@v1
+      - run: yarn install --immutable --immutable-cache && yarn build && yarn test
