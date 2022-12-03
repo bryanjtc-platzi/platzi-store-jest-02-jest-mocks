@@ -46,7 +46,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["eslint-plugin-prettier", "virtual:0e6acbd99dc35865e2a432d0c37796df2f395140519f20adcf2e53f515f4096b4cce80bb9579c2688d894afad8b18f86d57da7590d20945ab7403787addc8e99#npm:4.2.1"],\
             ["eslint-plugin-react", "virtual:0e6acbd99dc35865e2a432d0c37796df2f395140519f20adcf2e53f515f4096b4cce80bb9579c2688d894afad8b18f86d57da7590d20945ab7403787addc8e99#npm:7.31.11"],\
             ["history", "npm:5.3.0"],\
-            ["html-loader", "virtual:0e6acbd99dc35865e2a432d0c37796df2f395140519f20adcf2e53f515f4096b4cce80bb9579c2688d894afad8b18f86d57da7590d20945ab7403787addc8e99#npm:4.0.0"],\
+            ["html-loader", "virtual:0e6acbd99dc35865e2a432d0c37796df2f395140519f20adcf2e53f515f4096b4cce80bb9579c2688d894afad8b18f86d57da7590d20945ab7403787addc8e99#npm:4.2.0"],\
             ["html-webpack-plugin", "virtual:0e6acbd99dc35865e2a432d0c37796df2f395140519f20adcf2e53f515f4096b4cce80bb9579c2688d894afad8b18f86d57da7590d20945ab7403787addc8e99#npm:5.5.0"],\
             ["jest", "virtual:0e6acbd99dc35865e2a432d0c37796df2f395140519f20adcf2e53f515f4096b4cce80bb9579c2688d894afad8b18f86d57da7590d20945ab7403787addc8e99#npm:29.3.1"],\
             ["jest-fetch-mock", "npm:3.0.3"],\
@@ -5151,6 +5151,14 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["clean-css", [\
+        ["npm:5.2.0", {\
+          "packageLocation": "./.yarn/cache/clean-css-npm-5.2.0-f846f6a97e-ccb63b244b.zip/node_modules/clean-css/",\
+          "packageDependencies": [\
+            ["clean-css", "npm:5.2.0"],\
+            ["source-map", "npm:0.6.1"]\
+          ],\
+          "linkType": "HARD"\
+        }],\
         ["npm:5.3.1", {\
           "packageLocation": "./.yarn/cache/clean-css-npm-5.3.1-e052e24a9f-860696c605.zip/node_modules/clean-css/",\
           "packageDependencies": [\
@@ -7532,19 +7540,19 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["html-loader", [\
-        ["npm:4.0.0", {\
-          "packageLocation": "./.yarn/cache/html-loader-npm-4.0.0-f67886730b-f22b2d1c89.zip/node_modules/html-loader/",\
+        ["npm:4.2.0", {\
+          "packageLocation": "./.yarn/cache/html-loader-npm-4.2.0-e021d14a7e-ae54ecebad.zip/node_modules/html-loader/",\
           "packageDependencies": [\
-            ["html-loader", "npm:4.0.0"]\
+            ["html-loader", "npm:4.2.0"]\
           ],\
           "linkType": "SOFT"\
         }],\
-        ["virtual:0e6acbd99dc35865e2a432d0c37796df2f395140519f20adcf2e53f515f4096b4cce80bb9579c2688d894afad8b18f86d57da7590d20945ab7403787addc8e99#npm:4.0.0", {\
-          "packageLocation": "./.yarn/__virtual__/html-loader-virtual-7123354c16/0/cache/html-loader-npm-4.0.0-f67886730b-f22b2d1c89.zip/node_modules/html-loader/",\
+        ["virtual:0e6acbd99dc35865e2a432d0c37796df2f395140519f20adcf2e53f515f4096b4cce80bb9579c2688d894afad8b18f86d57da7590d20945ab7403787addc8e99#npm:4.2.0", {\
+          "packageLocation": "./.yarn/__virtual__/html-loader-virtual-a14bac755f/0/cache/html-loader-npm-4.2.0-e021d14a7e-ae54ecebad.zip/node_modules/html-loader/",\
           "packageDependencies": [\
-            ["html-loader", "virtual:0e6acbd99dc35865e2a432d0c37796df2f395140519f20adcf2e53f515f4096b4cce80bb9579c2688d894afad8b18f86d57da7590d20945ab7403787addc8e99#npm:4.0.0"],\
+            ["html-loader", "virtual:0e6acbd99dc35865e2a432d0c37796df2f395140519f20adcf2e53f515f4096b4cce80bb9579c2688d894afad8b18f86d57da7590d20945ab7403787addc8e99#npm:4.2.0"],\
             ["@types/webpack", null],\
-            ["html-minifier-terser", "npm:6.1.0"],\
+            ["html-minifier-terser", "npm:7.1.0"],\
             ["parse5", "npm:7.1.2"],\
             ["webpack", "virtual:0e6acbd99dc35865e2a432d0c37796df2f395140519f20adcf2e53f515f4096b4cce80bb9579c2688d894afad8b18f86d57da7590d20945ab7403787addc8e99#npm:5.72.0"]\
           ],\
@@ -7564,6 +7572,20 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["clean-css", "npm:5.3.1"],\
             ["commander", "npm:8.3.0"],\
             ["he", "npm:1.2.0"],\
+            ["param-case", "npm:3.0.4"],\
+            ["relateurl", "npm:0.2.7"],\
+            ["terser", "npm:5.16.1"]\
+          ],\
+          "linkType": "HARD"\
+        }],\
+        ["npm:7.1.0", {\
+          "packageLocation": "./.yarn/cache/html-minifier-terser-npm-7.1.0-77733ed4b6-351de28d85.zip/node_modules/html-minifier-terser/",\
+          "packageDependencies": [\
+            ["html-minifier-terser", "npm:7.1.0"],\
+            ["camel-case", "npm:4.1.2"],\
+            ["clean-css", "npm:5.2.0"],\
+            ["commander", "npm:9.4.1"],\
+            ["entities", "npm:4.4.0"],\
             ["param-case", "npm:3.0.4"],\
             ["relateurl", "npm:0.2.7"],\
             ["terser", "npm:5.16.1"]\
@@ -10207,7 +10229,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["eslint-plugin-prettier", "virtual:0e6acbd99dc35865e2a432d0c37796df2f395140519f20adcf2e53f515f4096b4cce80bb9579c2688d894afad8b18f86d57da7590d20945ab7403787addc8e99#npm:4.2.1"],\
             ["eslint-plugin-react", "virtual:0e6acbd99dc35865e2a432d0c37796df2f395140519f20adcf2e53f515f4096b4cce80bb9579c2688d894afad8b18f86d57da7590d20945ab7403787addc8e99#npm:7.31.11"],\
             ["history", "npm:5.3.0"],\
-            ["html-loader", "virtual:0e6acbd99dc35865e2a432d0c37796df2f395140519f20adcf2e53f515f4096b4cce80bb9579c2688d894afad8b18f86d57da7590d20945ab7403787addc8e99#npm:4.0.0"],\
+            ["html-loader", "virtual:0e6acbd99dc35865e2a432d0c37796df2f395140519f20adcf2e53f515f4096b4cce80bb9579c2688d894afad8b18f86d57da7590d20945ab7403787addc8e99#npm:4.2.0"],\
             ["html-webpack-plugin", "virtual:0e6acbd99dc35865e2a432d0c37796df2f395140519f20adcf2e53f515f4096b4cce80bb9579c2688d894afad8b18f86d57da7590d20945ab7403787addc8e99#npm:5.5.0"],\
             ["jest", "virtual:0e6acbd99dc35865e2a432d0c37796df2f395140519f20adcf2e53f515f4096b4cce80bb9579c2688d894afad8b18f86d57da7590d20945ab7403787addc8e99#npm:29.3.1"],\
             ["jest-fetch-mock", "npm:3.0.3"],\
