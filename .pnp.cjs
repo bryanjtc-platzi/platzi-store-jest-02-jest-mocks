@@ -62,7 +62,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["redux", "npm:4.2.0"],\
             ["style-loader", "virtual:0e6acbd99dc35865e2a432d0c37796df2f395140519f20adcf2e53f515f4096b4cce80bb9579c2688d894afad8b18f86d57da7590d20945ab7403787addc8e99#npm:3.3.1"],\
             ["stylus", "npm:0.59.0"],\
-            ["stylus-loader", "virtual:0e6acbd99dc35865e2a432d0c37796df2f395140519f20adcf2e53f515f4096b4cce80bb9579c2688d894afad8b18f86d57da7590d20945ab7403787addc8e99#npm:7.0.0"],\
+            ["stylus-loader", "virtual:0e6acbd99dc35865e2a432d0c37796df2f395140519f20adcf2e53f515f4096b4cce80bb9579c2688d894afad8b18f86d57da7590d20945ab7403787addc8e99#npm:7.1.0"],\
             ["webpack", "virtual:0e6acbd99dc35865e2a432d0c37796df2f395140519f20adcf2e53f515f4096b4cce80bb9579c2688d894afad8b18f86d57da7590d20945ab7403787addc8e99#npm:5.72.0"],\
             ["webpack-cli", "virtual:0e6acbd99dc35865e2a432d0c37796df2f395140519f20adcf2e53f515f4096b4cce80bb9579c2688d894afad8b18f86d57da7590d20945ab7403787addc8e99#npm:5.0.0"],\
             ["webpack-dev-server", "virtual:0e6acbd99dc35865e2a432d0c37796df2f395140519f20adcf2e53f515f4096b4cce80bb9579c2688d894afad8b18f86d57da7590d20945ab7403787addc8e99#npm:4.11.1"]\
@@ -10254,7 +10254,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["redux", "npm:4.2.0"],\
             ["style-loader", "virtual:0e6acbd99dc35865e2a432d0c37796df2f395140519f20adcf2e53f515f4096b4cce80bb9579c2688d894afad8b18f86d57da7590d20945ab7403787addc8e99#npm:3.3.1"],\
             ["stylus", "npm:0.59.0"],\
-            ["stylus-loader", "virtual:0e6acbd99dc35865e2a432d0c37796df2f395140519f20adcf2e53f515f4096b4cce80bb9579c2688d894afad8b18f86d57da7590d20945ab7403787addc8e99#npm:7.0.0"],\
+            ["stylus-loader", "virtual:0e6acbd99dc35865e2a432d0c37796df2f395140519f20adcf2e53f515f4096b4cce80bb9579c2688d894afad8b18f86d57da7590d20945ab7403787addc8e99#npm:7.1.0"],\
             ["webpack", "virtual:0e6acbd99dc35865e2a432d0c37796df2f395140519f20adcf2e53f515f4096b4cce80bb9579c2688d894afad8b18f86d57da7590d20945ab7403787addc8e99#npm:5.72.0"],\
             ["webpack-cli", "virtual:0e6acbd99dc35865e2a432d0c37796df2f395140519f20adcf2e53f515f4096b4cce80bb9579c2688d894afad8b18f86d57da7590d20945ab7403787addc8e99#npm:5.0.0"],\
             ["webpack-dev-server", "virtual:0e6acbd99dc35865e2a432d0c37796df2f395140519f20adcf2e53f515f4096b4cce80bb9579c2688d894afad8b18f86d57da7590d20945ab7403787addc8e99#npm:4.11.1"]\
@@ -11890,17 +11890,17 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["stylus-loader", [\
-        ["npm:7.0.0", {\
-          "packageLocation": "./.yarn/cache/stylus-loader-npm-7.0.0-a8b4ba965c-3bb09d4590.zip/node_modules/stylus-loader/",\
+        ["npm:7.1.0", {\
+          "packageLocation": "./.yarn/cache/stylus-loader-npm-7.1.0-52c3bd17bb-1406fd7ee0.zip/node_modules/stylus-loader/",\
           "packageDependencies": [\
-            ["stylus-loader", "npm:7.0.0"]\
+            ["stylus-loader", "npm:7.1.0"]\
           ],\
           "linkType": "SOFT"\
         }],\
-        ["virtual:0e6acbd99dc35865e2a432d0c37796df2f395140519f20adcf2e53f515f4096b4cce80bb9579c2688d894afad8b18f86d57da7590d20945ab7403787addc8e99#npm:7.0.0", {\
-          "packageLocation": "./.yarn/__virtual__/stylus-loader-virtual-c897b2d0bc/0/cache/stylus-loader-npm-7.0.0-a8b4ba965c-3bb09d4590.zip/node_modules/stylus-loader/",\
+        ["virtual:0e6acbd99dc35865e2a432d0c37796df2f395140519f20adcf2e53f515f4096b4cce80bb9579c2688d894afad8b18f86d57da7590d20945ab7403787addc8e99#npm:7.1.0", {\
+          "packageLocation": "./.yarn/__virtual__/stylus-loader-virtual-fd9136fcaf/0/cache/stylus-loader-npm-7.1.0-52c3bd17bb-1406fd7ee0.zip/node_modules/stylus-loader/",\
           "packageDependencies": [\
-            ["stylus-loader", "virtual:0e6acbd99dc35865e2a432d0c37796df2f395140519f20adcf2e53f515f4096b4cce80bb9579c2688d894afad8b18f86d57da7590d20945ab7403787addc8e99#npm:7.0.0"],\
+            ["stylus-loader", "virtual:0e6acbd99dc35865e2a432d0c37796df2f395140519f20adcf2e53f515f4096b4cce80bb9579c2688d894afad8b18f86d57da7590d20945ab7403787addc8e99#npm:7.1.0"],\
             ["@types/stylus", null],\
             ["@types/webpack", null],\
             ["fast-glob", "npm:3.2.12"],\
