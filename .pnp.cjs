@@ -52,7 +52,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["jest-fetch-mock", "npm:3.0.3"],\
             ["jsdom", "virtual:0e6acbd99dc35865e2a432d0c37796df2f395140519f20adcf2e53f515f4096b4cce80bb9579c2688d894afad8b18f86d57da7590d20945ab7403787addc8e99#npm:20.0.3"],\
             ["jsdom-global", "virtual:0e6acbd99dc35865e2a432d0c37796df2f395140519f20adcf2e53f515f4096b4cce80bb9579c2688d894afad8b18f86d57da7590d20945ab7403787addc8e99#npm:3.0.2"],\
-            ["mini-css-extract-plugin", "virtual:0e6acbd99dc35865e2a432d0c37796df2f395140519f20adcf2e53f515f4096b4cce80bb9579c2688d894afad8b18f86d57da7590d20945ab7403787addc8e99#npm:2.6.0"],\
+            ["mini-css-extract-plugin", "virtual:0e6acbd99dc35865e2a432d0c37796df2f395140519f20adcf2e53f515f4096b4cce80bb9579c2688d894afad8b18f86d57da7590d20945ab7403787addc8e99#npm:2.7.1"],\
             ["prettier", "npm:2.7.1"],\
             ["react", "npm:18.1.0"],\
             ["react-dom", "virtual:0e6acbd99dc35865e2a432d0c37796df2f395140519f20adcf2e53f515f4096b4cce80bb9579c2688d894afad8b18f86d57da7590d20945ab7403787addc8e99#npm:18.0.0"],\
@@ -9414,17 +9414,17 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["mini-css-extract-plugin", [\
-        ["npm:2.6.0", {\
-          "packageLocation": "./.yarn/cache/mini-css-extract-plugin-npm-2.6.0-c3e21a6a16-ea73bd6655.zip/node_modules/mini-css-extract-plugin/",\
+        ["npm:2.7.1", {\
+          "packageLocation": "./.yarn/cache/mini-css-extract-plugin-npm-2.7.1-2adc8f9a68-0da0db7bef.zip/node_modules/mini-css-extract-plugin/",\
           "packageDependencies": [\
-            ["mini-css-extract-plugin", "npm:2.6.0"]\
+            ["mini-css-extract-plugin", "npm:2.7.1"]\
           ],\
           "linkType": "SOFT"\
         }],\
-        ["virtual:0e6acbd99dc35865e2a432d0c37796df2f395140519f20adcf2e53f515f4096b4cce80bb9579c2688d894afad8b18f86d57da7590d20945ab7403787addc8e99#npm:2.6.0", {\
-          "packageLocation": "./.yarn/__virtual__/mini-css-extract-plugin-virtual-4c7a29c6c5/0/cache/mini-css-extract-plugin-npm-2.6.0-c3e21a6a16-ea73bd6655.zip/node_modules/mini-css-extract-plugin/",\
+        ["virtual:0e6acbd99dc35865e2a432d0c37796df2f395140519f20adcf2e53f515f4096b4cce80bb9579c2688d894afad8b18f86d57da7590d20945ab7403787addc8e99#npm:2.7.1", {\
+          "packageLocation": "./.yarn/__virtual__/mini-css-extract-plugin-virtual-ccd98b7a2d/0/cache/mini-css-extract-plugin-npm-2.7.1-2adc8f9a68-0da0db7bef.zip/node_modules/mini-css-extract-plugin/",\
           "packageDependencies": [\
-            ["mini-css-extract-plugin", "virtual:0e6acbd99dc35865e2a432d0c37796df2f395140519f20adcf2e53f515f4096b4cce80bb9579c2688d894afad8b18f86d57da7590d20945ab7403787addc8e99#npm:2.6.0"],\
+            ["mini-css-extract-plugin", "virtual:0e6acbd99dc35865e2a432d0c37796df2f395140519f20adcf2e53f515f4096b4cce80bb9579c2688d894afad8b18f86d57da7590d20945ab7403787addc8e99#npm:2.7.1"],\
             ["@types/webpack", null],\
             ["schema-utils", "npm:4.0.0"],\
             ["webpack", "virtual:0e6acbd99dc35865e2a432d0c37796df2f395140519f20adcf2e53f515f4096b4cce80bb9579c2688d894afad8b18f86d57da7590d20945ab7403787addc8e99#npm:5.72.0"]\
@@ -10235,7 +10235,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["jest-fetch-mock", "npm:3.0.3"],\
             ["jsdom", "virtual:0e6acbd99dc35865e2a432d0c37796df2f395140519f20adcf2e53f515f4096b4cce80bb9579c2688d894afad8b18f86d57da7590d20945ab7403787addc8e99#npm:20.0.3"],\
             ["jsdom-global", "virtual:0e6acbd99dc35865e2a432d0c37796df2f395140519f20adcf2e53f515f4096b4cce80bb9579c2688d894afad8b18f86d57da7590d20945ab7403787addc8e99#npm:3.0.2"],\
-            ["mini-css-extract-plugin", "virtual:0e6acbd99dc35865e2a432d0c37796df2f395140519f20adcf2e53f515f4096b4cce80bb9579c2688d894afad8b18f86d57da7590d20945ab7403787addc8e99#npm:2.6.0"],\
+            ["mini-css-extract-plugin", "virtual:0e6acbd99dc35865e2a432d0c37796df2f395140519f20adcf2e53f515f4096b4cce80bb9579c2688d894afad8b18f86d57da7590d20945ab7403787addc8e99#npm:2.7.1"],\
             ["prettier", "npm:2.7.1"],\
             ["react", "npm:18.1.0"],\
             ["react-dom", "virtual:0e6acbd99dc35865e2a432d0c37796df2f395140519f20adcf2e53f515f4096b4cce80bb9579c2688d894afad8b18f86d57da7590d20945ab7403787addc8e99#npm:18.0.0"],\
