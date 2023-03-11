@@ -43,7 +43,7 @@
     "style-loader": "3.3.1",
     "stylus": "0.59.0",
     "stylus-loader": "7.1.0",
-    "webpack": "5.76.0",
+    "webpack": "5.76.1",
     "webpack-cli": "5.0.1"
   },
   "devDependencies": {
