@@ -40,7 +40,7 @@
     "react-redux": "8.0.5",
     "react-router-dom": "6.9.0",
     "redux": "4.2.1",
-    "style-loader": "3.3.1",
+    "style-loader": "3.3.2",
     "stylus": "0.59.0",
     "stylus-loader": "7.1.0",
     "webpack": "5.76.1",
