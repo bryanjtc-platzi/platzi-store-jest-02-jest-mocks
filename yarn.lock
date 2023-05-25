@@ -7181,10 +7181,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"klona@npm:^2.0.5":
-  version: 2.0.5
-  resolution: "klona@npm:2.0.5"
-  checksum: 8c976126ea252b766e648a4866e1bccff9d3b08432474ad80c559f6c7265cf7caede2498d463754d8c88c4759895edd8210c85c0d3155e6aae4968362889466f
+"klona@npm:^2.0.6":
+  version: 2.0.6
+  resolution: "klona@npm:2.0.6"
+  checksum: ac9ee3732e42b96feb67faae4d27cf49494e8a3bf3fa7115ce242fe04786788e0aff4741a07a45a2462e2079aa983d73d38519c85d65b70ef11447bbc3c58ce7
   languageName: node
   linkType: hard
 
@@ -8198,7 +8198,7 @@ __metadata:
     redux: 4.2.1
     style-loader: 3.3.3
     stylus: 0.59.0
-    stylus-loader: 7.1.0
+    stylus-loader: 7.1.1
     webpack: 5.84.0
     webpack-cli: 5.1.1
     webpack-dev-server: 4.15.0
@@ -9569,17 +9569,17 @@ __metadata:
   languageName: node
   linkType: hard
 
-"stylus-loader@npm:7.1.0":
-  version: 7.1.0
-  resolution: "stylus-loader@npm:7.1.0"
+"stylus-loader@npm:7.1.1":
+  version: 7.1.1
+  resolution: "stylus-loader@npm:7.1.1"
   dependencies:
     fast-glob: ^3.2.12
-    klona: ^2.0.5
+    klona: ^2.0.6
     normalize-path: ^3.0.0
   peerDependencies:
     stylus: ">=0.52.4"
     webpack: ^5.0.0
-  checksum: 1406fd7ee08d2113659eae66a602e32a26a7c14036110da8287a38bb7142591cb26150d67178752a4949f40f7bad0bc8c07fdb4d4ba03008c35bd60c30645400
+  checksum: a0eff4905c197fec29ce38f4bbc57900656a3a02839a5e08576e36359dd0aa8c2ddf9f4351ae6901fc74ce0c320fd135784e4016e5e1f29362305b9b5921828e
   languageName: node
   linkType: hard
 
