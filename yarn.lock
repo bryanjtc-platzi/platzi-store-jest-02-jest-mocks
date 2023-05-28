@@ -8477,7 +8477,7 @@ __metadata:
     redux: 4.2.1
     style-loader: 3.3.3
     stylus: 0.59.0
-    stylus-loader: 7.1.1
+    stylus-loader: 7.1.2
     webpack: 5.84.1
     webpack-cli: 5.1.1
     webpack-dev-server: 4.15.0
@@ -9862,9 +9862,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"stylus-loader@npm:7.1.1":
-  version: 7.1.1
-  resolution: "stylus-loader@npm:7.1.1"
+"stylus-loader@npm:7.1.2":
+  version: 7.1.2
+  resolution: "stylus-loader@npm:7.1.2"
   dependencies:
     fast-glob: ^3.2.12
     klona: ^2.0.6
@@ -9872,7 +9872,7 @@ __metadata:
   peerDependencies:
     stylus: ">=0.52.4"
     webpack: ^5.0.0
-  checksum: a0eff4905c197fec29ce38f4bbc57900656a3a02839a5e08576e36359dd0aa8c2ddf9f4351ae6901fc74ce0c320fd135784e4016e5e1f29362305b9b5921828e
+  checksum: f0971b1825163d6bfa57e13d228c2b90c4d43d0137a6e632632117e380a00b5ff87cff91bf9536ed6f8f6b50c5db3e24a4f97a2e53f3825769d752b43bc3d89b
   languageName: node
   linkType: hard
 
