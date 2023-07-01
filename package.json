@@ -80,5 +80,5 @@
       "\\.(styl|css)$": "<rootDir>/src/__mocks__/styleMock.js"
     }
   },
-  "packageManager": "yarn@3.6.0"
+  "packageManager": "yarn@3.6.1"
 }
